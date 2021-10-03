@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = romain.jumeau@hotmail.fr
+	name = Romain Jumeau
